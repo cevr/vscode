@@ -1,0 +1,19 @@
+{
+  "workbench.activityBar.visible": false,
+  "window.menuBarVisibility": "toggle",
+  "files.autoSave": "onWindowChange",
+  "editor.fontSize": 16,
+  "editor.fontFamily":
+    "'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "all",
+  "editor.wordWrap": "on",
+  "workbench.iconTheme": "vs-minimal",
+  "workbench.colorTheme": "Nord",
+  "reason.diagnostics.tools": ["merlin", "bsb"],
+  "prettier.singleQuote": true,
+  "prettier.eslintIntegration": true,
+  "prettier.tabWidth": 2,
+  "prettier.printWidth": 120
+}
+
